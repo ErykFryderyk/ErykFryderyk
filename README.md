@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm Grzegorz 👋
+
+### About Me 
+
 
 <!--
 **ErykFryderyk/ErykFryderyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
