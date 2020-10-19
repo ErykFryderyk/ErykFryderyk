@@ -1,7 +1,11 @@
 ### Hi there I'm Grzegorz 👋
 
-### About Me 
+I'm from Poland, and I’m a beginner front-end developer. Two year ago I’m interested creating web applications. In creating applications, I use technologies as HTML, CSS and JavaScript. Creating projects and coding brings me satisfaction and great joy. 😊
 
+### Skills and Experience 💪
+🥇 HTML 
+🥈 CSS (Sass)
+🥉 JavaScript
 
 <!--
 **ErykFryderyk/ErykFryderyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💪
 -->
