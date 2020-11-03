@@ -5,7 +5,8 @@ I'm from Poland, and I’m a beginner front-end developer. Two year ago I’m in
 ### Skills and Experience 💪
 🥇 HTML 🥈 CSS (Sass) 🥉 JavaScript
 
-⚡ I'm currently learning Vue.js
+### I'm currently learning 📖
+  🖖 Vue.js
 <!--
 **ErykFryderyk/ErykFryderyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
