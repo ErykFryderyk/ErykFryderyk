@@ -1,6 +1,6 @@
 ### Hi there I'm Grzegorz 👋
 
-I'm from Poland, and I’m a beginner front-end developer. Two year ago I’m interested creating web applications. In creating applications, I use technologies as HTML, CSS and JavaScript. Creating projects and coding brings me satisfaction and great joy. 😊
+I'm from Poland, and I’m a beginner front-end developer. Two year ago I interested creating web applications. In creating applications, I use technologies as HTML, CSS and JavaScript. Coding brings me fun nad satisfaction. 😊
 
 ### Skills and Experience 💪
 🥇 HTML 🥈 CSS (Sass) 🥉 JavaScript
