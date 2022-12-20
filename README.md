@@ -1,5 +1,5 @@
 ### Hi there I'm Grzegorz 👋
-
+<!--
 I'm from Poland, and I’m a beginner front-end developer. Two years ago I was start interested in creating web applications. In creating applications, I use technologies like HTML, CSS, and JavaScript. Coding brings me fun and satisfaction. 😊
 
 ### Skills and Experience 💪
@@ -7,7 +7,7 @@ I'm from Poland, and I’m a beginner front-end developer. Two years ago I was s
 
 ### Currently learning 📖
   🖖 Vue.js
-<!--
+
 **ErykFryderyk/ErykFryderyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
